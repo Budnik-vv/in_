@@ -1,0 +1,52 @@
+.post{
+    color: black;
+    text-align: justify;
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(252, 246, 241);
+}
+.post-top-info:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.post-bottom-info{
+    font-size: 10px;
+}
+
+.button{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: right;
+    background-color: rgb(252, 246, 241);
+}
+.progress{
+   margin: 100px;
+   text-align: center;
+}
+
+.news{
+    color: black;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(252, 246, 241);
+    cursor: pointer;
+}
+
+.comment{
+    padding-top: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 0 40px 40px;
+    cursor: pointer;
+    background-color: rgb(252, 246, 241);
+}
+.header{
+font-style: italic;
+font-size: medium;
+}
